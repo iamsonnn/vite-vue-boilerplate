@@ -1,0 +1,21 @@
+{
+  "name": "vivu-boilderplate",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5",
+    "vue-router": "4",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "prettier": "^2.2.1",
+    "sass": "^1.32.8",
+    "vite": "^2.0.5"
+  }
+}
